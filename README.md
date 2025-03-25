@@ -35,6 +35,3 @@ Este projeto implementa um sistema de gerenciamento de funcionários em Java, pe
 ## Autor
 Desenvolvido como parte do teste prático para a **Projedata Informática**.
 
----
-Caso tenha sugestões ou melhorias, fique à vontade para contribuir! 🚀
-
